@@ -3,13 +3,13 @@
     {
       "id": "c-1",
       "name": "darkener",
-      "msg": "i think <b>$ShibariumPls</b> looks safe so far, passes all test, maybe apeable?",
+      "msg": "i think $ShibariumPls looks safe so far, passes all test, maybe apeable?",
       "highlight_clr": "#018867"
     },
     {
       "id": "c-2",
       "name": "Wutwut😎",
-      "msg": "<b>$DEJAVU</b> is unsellable, careful.",
+      "msg": "$DEJAVU is unsellable, careful.",
       "highlight_clr": "#880901"
     },
     {

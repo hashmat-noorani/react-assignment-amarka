@@ -1,0 +1,142 @@
+{
+  "chats": [
+    {
+      "id": "c-1",
+      "name": "darkener",
+      "msg": "i think <b>$ShibariumPls</b> looks safe so far, passes all test, maybe apeable?",
+      "highlight_clr": "#018867"
+    },
+    {
+      "id": "c-2",
+      "name": "Wutwut😎",
+      "msg": "<b>$DEJAVU</b> is unsellable, careful.",
+      "highlight_clr": "#880901"
+    },
+    {
+      "id": "c-3",
+      "name_color": "#D84100",
+      "name": "VeryReasonableMan🐺",
+      "msg": "llable, careful. Super happy that we aped $Ofuda earlier, it has been an amazing journey so far and the rugs have been considerably low since we are live."
+    },
+    {
+      "id": "c-4",
+      "name": "👽👽Myself👽👽",
+      "msg": "yeah one of the best decisions was to get on this dApp, cannot express how easy it is to spot rugs now."
+    },
+    {
+      "id": "c-5",
+      "name": "foreverdegen",
+      "msg": "GUYS $PORTAL 100% SCAMMM NEW KIND OF FAKE RENOUNCE!!!",
+      "highlight_clr": "#880901"
+    },
+    {
+      "id": "c-6",
+      "name": "darkener",
+      "msg": "confirmed safe, dev is known $ShibariumPls aped 0.1",
+      "highlight_clr": "#018867"
+    }
+  ],
+  "cards": [
+    {
+      "id": "card1",
+      "time": "1.5 HOURS",
+      "footer_third_btn": true,
+      "rating": 83,
+      "name": "$BTYRANT",
+      "percentage": "235%+",
+      "slogan": "Fable of the Baby Dragon Tyrant",
+      "tabs": [
+        { "title": "LIQUIDITY", "value": "$40.2K" },
+        { "title": "MARKET CAP", "value": "$215.3K" },
+        { "title": "24H VOLUME", "value": "$62.9K" },
+        { "title": "TOTAL SUPPLY", "value": "220M" }
+      ],
+      "contract_key": "0xaa1db055d53f14f7e6a13e01097b17db620d3ef4",
+      "pair_key": "0x8ab4309019d7674c6112eb32698a30fdcba6a278",
+      "bullets": [
+        { "title": "Renounced", "color": "#85DE50" },
+        { "title": "Fake Renounce", "color": "#85DE50" },
+        { "title": "Trade Modifier", "color": "#85DE50" },
+        { "title": "Contract Verified", "color": "#85DE50" },
+        { "title": "Liquidity: Locked (1 Month)", "color": "#F48319" },
+        { "title": "Buy Tax (3%)", "color": "#85DE50" },
+        { "title": "Multiple Owners", "color": "#85DE50" },
+        { "title": "Fresh Wallets (20%)", "color": "#F48319" },
+        { "title": "Mintable", "color": "#85DE50" },
+        { "title": "Liquidity Weight: (1 ETH)", "color": "#85DE50" },
+        { "title": "Sell Tax (3%)", "color": "#85DE50" },
+        { "title": "Novelty", "color": "#85DE50" },
+        { "title": "Airdrop (0%)", "color": "#85DE50" },
+        { "title": "-", "color": "#85DE50" },
+        { "title": "-", "color": "#85DE50" },
+        { "title": "Maximum Tax (25%)", "color": "#F48319" },
+        { "title": "Creator Tokens (3%)", "color": "#85DE50" },
+        { "title": "-", "color": "#85DE50" },
+        { "title": "-", "color": "#85DE50" },
+        { "title": "-", "color": "#85DE50" }
+      ]
+    },
+    {
+      "id": "card2",
+      "time": "2 HOURS",
+      "footer_third_btn": false,
+      "rating": 89,
+      "name": "$SHIBINO",
+      "percentage": "104%+",
+      "slogan": "Shibarium Casino",
+      "tabs": [
+        { "title": "LIQUIDITY", "value": "$20.2K" },
+        { "title": "MARKET CAP", "value": "$101.1K" },
+        { "title": "24H VOLUME", "value": "$10.9K" },
+        { "title": "TOTAL SUPPLY", "value": "1B" }
+      ],
+      "contract_key": "0xaa1db055d53f14f7e6a13e01097b17db620d3ef4",
+      "pair_key": "0x8ab4309019d7674c6112eb32698a30fdcba6a278",
+      "bullets": [
+        { "title": "Parameter", "color": "#85DE50" },
+        { "title": "Parameter", "color": "#85DE50" },
+        { "title": "Parameter", "color": "#85DE50" },
+        { "title": "Parameter", "color": "#85DE50" },
+        { "title": "Parameter", "color": "#85DE50" },
+        { "title": "Parameter", "color": "#85DE50" },
+        { "title": "LP Lock (1 Month)", "color": "#F48319" },
+        { "title": "Honey Pot", "color": "#85DE50" },
+        { "title": "Parameter", "color": "#85DE50" },
+        { "title": "Parameter", "color": "#85DE50" },
+        { "title": "Parameter", "color": "#F48319" },
+        { "title": "Fake Renounce", "color": "#85DE50" }
+      ]
+    },
+    {
+      "id": "card1",
+      "time": "3.5 HOURS",
+      "footer_third_btn": false,
+      "rating": 100,
+      "name": "$CENTRIC",
+      "percentage": "456%+",
+      "slogan": "Central AI Tools",
+      "tabs": [
+        { "title": "LIQUIDITY", "value": "$250.3K" },
+        { "title": "MARKET CAP", "value": "$678.8K" },
+        { "title": "24H VOLUME", "value": "$1.2M" },
+        { "title": "TOTAL SUPPLY", "value": "775M" }
+      ],
+      "contract_key": "0xaa1db055d53f14f7e6a13e01097b17db620d3ef4",
+      "pair_key": "0x8ab4309019d7674c6112eb32698a30fdcba6a278",
+      "bullets": [
+        { "title": "Parameter", "color": "#85DE50" },
+        { "title": "Parameter", "color": "#85DE50" },
+        { "title": "Parameter", "color": "#85DE50" },
+        { "title": "Parameter", "color": "#85DE50" },
+        { "title": "Parameter", "color": "#85DE50" },
+        { "title": "Parameter", "color": "#85DE50" },
+        { "title": "LP Lock (3 Years)", "color": "#85DE50" },
+        { "title": "Honey Pot", "color": "#85DE50" },
+        { "title": "Parameter", "color": "#85DE50" },
+        { "title": "Parameter", "color": "#85DE50" },
+        { "title": "Parameter", "color": "#85DE50" },
+        { "title": "Fake Renounce", "color": "#85DE50" }
+      ]
+    }
+  ]
+}

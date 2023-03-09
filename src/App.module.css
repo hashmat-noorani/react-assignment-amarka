@@ -1,0 +1,12 @@
+.App {
+  height: 1080px;
+  width: 1920px;
+  background: #0d111b;
+}
+.background {
+  display: flex;
+  height: 1080px;
+  width: 1920px;
+  background: url("./assets/background.svg");
+  mix-blend-mode: normal;
+}

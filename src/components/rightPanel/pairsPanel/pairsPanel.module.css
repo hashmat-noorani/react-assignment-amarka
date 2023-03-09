@@ -1,0 +1,136 @@
+.mid_headingLine1 {
+  /* border: 1px solid red; */
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.mid_headingLine1 p:first-child {
+  width: 127px;
+  height: 34px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25.0774px;
+  line-height: 34px;
+}
+
+.mid_headingLine1 p:nth-child(2) {
+  width: 78px;
+  height: 34px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 25.0774px;
+  line-height: 34px;
+  color: #85de50;
+}
+
+.mid_headingLine1 > div {
+  width: 51px;
+  height: 19px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 3px;
+  font-size: 8px !important;
+  font-style: normal;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  /* place-items: center; */
+}
+
+.mid_headingLine2 {
+  margin: 7px 0;
+  width: 323px;
+  height: 30px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22.3547px;
+  line-height: 30px;
+  color: #888888;
+}
+
+.mid_tabs {
+  width: 443px;
+  height: 19px;
+  border: 0.5px solid rgba(255, 255, 255, 0.2);
+  border-radius: 3px;
+  display: flex;
+}
+
+.mid_tabs > div {
+  color: #ffffff;
+  font-size: 8px;
+  font-weight: 400;
+  flex: 1;
+  display: grid;
+  place-items: center;
+  border-right: 0.5px solid rgba(255, 255, 255, 0.2);
+}
+
+.mid_contract_ids {
+  display: flex;
+  column-gap: 20px;
+  margin: 7px 0;
+}
+.mid_contract_ids > div {
+  /* border: 1px solid red; */
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  height: 14px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 14px;
+
+  color: #8a8fcb;
+}
+
+.mid_bullets > div {
+  display: flex;
+  align-items: center;
+  column-gap: 5px;
+}
+
+.mid_bullets p {
+  height: 14px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 14px;
+  color: #ffffff;
+}
+
+.mid_footer {
+  margin-top: 15px;
+  display: flex;
+  column-gap: 20px;
+}
+
+.mid_footer > div {
+  border-radius: 3px;
+  text-align: center;
+  display: grid;
+  place-items: center;
+  color: #ffffff;
+  font-size: 12px;
+}
+
+.mid_footer > div:first-child {
+  width: 99px;
+  height: 28px;
+  background: #3946a0;
+}
+
+.mid_footer > div:nth-child(2) {
+  box-sizing: border-box;
+  width: 99px;
+  height: 28px;
+  border: 0.75px solid #ffffff;
+}
+.mid_footer > div:nth-child(3) {
+  width: 240px;
+  height: 28px;
+  background: #c77802;
+}
